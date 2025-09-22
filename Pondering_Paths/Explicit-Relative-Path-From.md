@@ -19,7 +19,7 @@ pwn.college{EfXSENGyOM2N95qBhthqjuoYqEi.QXwUTN0wSOyMzNzEzW}
 hacker@paths~explicit-relative-paths-from-:/$
 ```
 ## Incorrect tangents I went on
-Put aboslute path instead of the relative path
+None
 
 ## What I learned
 Learned how to access a program using relative path using the '.' format
