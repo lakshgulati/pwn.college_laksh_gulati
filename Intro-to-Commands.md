@@ -1,5 +1,5 @@
 # Challenge Name
-Intro to arguments
+Intro to commands
 
 ## My solve
 **Flag:** `pwn.college{Uia6sVzPs8B6KyXPjRvHgqfwYZ0.QX3YjM1wSOyMzNzEzW}`
@@ -17,4 +17,5 @@ None
 I learned that the first word is the argument and following that we have parameters that the argument can take
 
 ## References 
+
 No outside reference used
